@@ -1,0 +1,10 @@
+# audio too big for GitHub - get from Kaggle competition shl-hiring-assessment-2026
+data/train/
+data/test/
+*.wav
+*.npy
+*.pkl
+__pycache__/
+.ipynb_checkpoints/
+.kaggle/
+kaggle.json
